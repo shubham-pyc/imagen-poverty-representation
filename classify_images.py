@@ -4,7 +4,6 @@ import concurrent.futures
 import pandas as pd
 import dotenv
 dotenv.load_dotenv()
-# os.environ['GOOGLE_API_KEY'] = "AIzaSyB6C4BvUNSbkc75QMA6D-D28R6SZYZz4_o"
 
 
 from google import genai
